@@ -43,7 +43,7 @@ AJACS19
 
 * 15:00-15:20	休憩
 
-* 15:20-16:10	[BodyParts3D/Anatomographyの利用法　](01_mitsuhashi.md) 三橋信孝（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](AJACS19_mitsuhashi.pdf)
+* 15:20-16:10	BodyParts3D/Anatomographyの利用法　三橋信孝（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](AJACS19_mitsuhashi.pdf)
 * 16:10-17:00	DBCLS Galaxyの利用法　山口敦子（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](AJACS19_yamaguchi.pdf)
 
 * 第2日目 6月24日（木）10:00～17:00
