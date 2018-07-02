@@ -33,18 +33,18 @@ AJACS19
 
     * 9:30-10:00	受付
 
-* 10:00-10:15	統合データベースプロジェクトの紹介　高祖歩美（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=100623LSDB.pdf&refer=AJACS19)
-* 10:15-11:30	カタログサービス・横断検索の利用法　川本祥子（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=100623database.pdf&refer=AJACS19)
-* 11:30-12:20	文献関連サービスの活用法　山本泰智（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=100623documents.pdf&refer=AJACS19)
+* 10:00-10:15	統合データベースプロジェクトの紹介　高祖歩美（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](AJACS19_koso.pdf)
+* 10:15-11:30	カタログサービス・横断検索の利用法　川本祥子（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](AJACS19_kawamoto.pdf)
+* 11:30-12:20	文献関連サービスの活用法　山本泰智（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](AJACS19_yamamoto.pdf)
 
 * 12:20-13:30	昼食休憩
 
-* 13:30-15:00	遺伝子発現情報を使い倒す　坊農秀雅（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=100623togoexp.pdf&refer=AJACS19%2Fbono) [NGS講習/PDF資料](http://g86.dbcls.jp/~iNut/chateautogo/?p=41)
+* 13:30-15:00	遺伝子発現情報を使い倒す　坊農秀雅（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](AJACS19_bono.pdf) 
 
 * 15:00-15:20	休憩
 
-* 15:20-16:10	[BodyParts3D/Anatomographyの利用法　](http://MotDB.DBCLS.jp/?AJACS19%2Fmitsuhashi "AJACS19/mitsuhashi (2936d)") 三橋信孝（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&refer=AJACS19%2Fmitsuhashi&openfile=100623BodyParts3D.pdf)
-* 16:10-17:00	DBCLS Galaxyの利用法　山口敦子（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=100623Galaxy.pdf&refer=AJACS19)
+* 15:20-16:10	[BodyParts3D/Anatomographyの利用法　](01_mitsuhashi.md) 三橋信孝（ライフサイエンス統合データベースセンター　特任研究員）　[PDF資料](AJACS19_mitsuhashi.pdf)
+* 16:10-17:00	DBCLS Galaxyの利用法　山口敦子（ライフサイエンス統合データベースセンター　特任准教授）　[PDF資料](AJACS19_yamaguchi.pdf)
 
 * 第2日目 6月24日（木）10:00～17:00
 
